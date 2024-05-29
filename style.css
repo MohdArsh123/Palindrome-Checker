@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(195, 185, 174);
+}
+
+
+.container {
+    text-align: center;
+}
+
+
+input {
+    width: 30%;
+    height: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 20px;
+    border: 1px solid black;
+    outline: none;
+    padding: 1rem;
+}
+
+
+button {
+    height: 40px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(29, 164, 209);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
